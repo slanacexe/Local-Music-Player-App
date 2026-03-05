@@ -1,5 +1,5 @@
-- PySide6
-- mutagen
-- pillow
-- pyinstaller
-- pyinstaller-hooks-contrib
+PySide6
+mutagen
+Pillow
+pyinstaller
+pyinstaller-hooks-contrib
